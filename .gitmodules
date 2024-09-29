@@ -1,3 +1,6 @@
 [submodule "api/client"]
 	path = api/client
 	url = https://github.com/ArmanOfficial786/api-client.git
+[submodule "web/client"]
+	path = web/client
+	url = https://github.com/ArmanOfficial786/web-client.git
